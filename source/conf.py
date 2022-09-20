@@ -18,7 +18,7 @@ import furo
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sereinme'
+project = ''
 copyright = '2022, Sereinme'
 author = 'Sereinme'
 
@@ -53,4 +53,5 @@ html_theme = 'furo'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_title = "Sereinme"
+html_title = ""
+html_logo = "_static/logo.svg"
