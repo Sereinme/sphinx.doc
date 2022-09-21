@@ -1,4 +1,4 @@
-LaTex Notes
+LaTex
 ===========
 
 .. toctree::
